@@ -4,7 +4,7 @@ const BrotliPlugin = require('brotli-webpack-plugin');
 module.exports = {
     mode: 'production',
     entry:{
-        frameworks: './index-react.js' 
+        app: './index.js' 
     },
     plugins: [
         new CompressionPlugin({
