@@ -1,0 +1,24 @@
+{
+  "name": "brotlivsgzip",
+  "version": "1.0.0",
+  "description": "comparison between brotli and gzip compression ratio for static files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "brotli",
+    "gzip"
+  ],
+  "author": "kumar swapnil",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^4.41.5",
+    "webpack-cli": "^3.3.10"
+  },
+  "dependencies": {
+    "brotli-webpack-plugin": "^1.1.0",
+    "compression-webpack-plugin": "^3.0.1",
+    "react": "^16.12.0"
+  }
+}
