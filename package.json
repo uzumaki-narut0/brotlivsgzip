@@ -13,8 +13,8 @@
   "author": "kumar swapnil",
   "license": "ISC",
   "devDependencies": {
-    "webpack": "^4.41.5",
-    "webpack-cli": "^3.3.10"
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.1"
   },
   "dependencies": {
     "brotli-webpack-plugin": "^1.1.0",
